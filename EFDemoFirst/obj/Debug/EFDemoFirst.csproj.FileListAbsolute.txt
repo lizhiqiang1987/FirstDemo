@@ -1,0 +1,13 @@
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EFDemoFirst.exe.config
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EFDemoFirst.exe
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EFDemoFirst.pdb
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.dll
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.SqlServer.dll
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.xml
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.SqlServer.xml
+F:\Restart\EFDemoFirst\EFDemoFirst\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Restart\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.csprojAssemblyReference.cache
+F:\Restart\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.csproj.CoreCompileInputs.cache
+F:\Restart\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.csproj.CopyComplete
+F:\Restart\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.exe
+F:\Restart\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.pdb
